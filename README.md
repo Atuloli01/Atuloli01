@@ -2,8 +2,13 @@
 
 <h2 align="left">I'm a College student... , from Pithoragarh ....</h2>
 
+<h1 align="center"> Hi 👋, My name is ATUL OLI............😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coder||+Learner||+Engineer;Aspiring+Web+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
+</p>
+<hr/>
 
-<h1 align="center">Hi 👋, My name is ATUL OLI............😊</h1>
+
 <h3 align="center">A passionate entry level frontend developer showcase a skills and having one chance for exploring and implementing my knowledge in real world projects......</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atuloli01&label=Profile%20views&color=0e75b6&style=flat" alt="atuloli01" /> </p>
