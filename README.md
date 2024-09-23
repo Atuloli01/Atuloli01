@@ -17,6 +17,18 @@
 
 <p align="left"> <a href="https://twitter.com/atul_oli" target="blank"><img src="https://img.shields.io/twitter/follow/atul_oli?logo=twitter&style=for-the-badge" alt="atul_oli" /></a> </p>
 
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Naman+and+Welcome+to+my+Profile" align="middle" alt="animated type out" width="100%"/> -->
+
+![Master Head](https://aimresearch.co/wp-content/uploads/2023/07/artificial-intelligence-ai-and-machine-learning-ml-.jpg)
+<!-- <p>Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. Individuals who enjoy working in teams and are skilled at executing initiatives with a defined goal. I'm really interested in working as a software developer to enhance the user experience.</p> -->
+
+<h2 align="center">🌱 Data Science Enthusiast and Developer , budding at IIT Madras</h2>
+
+<img align= "left" alt="coding" width= "400" src= "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalixadi21&label=Profile%20views&color=0e75b6&style=flat" alt="kalizadi21" /> </p>
+
+
 - 🔭 I’m currently working on **personal portfolio**
 
 - 🌱 I’m currently learning **Kotlin, Java-script, Python, Machine_Learning**
