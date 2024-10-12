@@ -124,9 +124,10 @@
 [![Gmail][gmail-shield]][gmail-url] -Mail <br>
 [![Linkedin][linkedin-shield]][linkedin-url] -LinkedIn<br>
 [![Github][github-shield]][github-url] -GitHub<br>
-[![LeetCode][leetcode-shield]][leetcode-url] -LeetCode<br>
-[![Hackerrank][hackerrank-shield]][hackerrank-url] -HackerRank<br>
+<!-- [![LeetCode][leetcode-shield]][leetcode-url] -LeetCode<br>
 [![GFG][gfg-shield]][gfg-url] -Geeks-For-Geeks<br>
+[![Hackerrank][hackerrank-shield]][hackerrank-url] -HackerRank<br>-->
+
 <br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
