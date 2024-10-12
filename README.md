@@ -120,3 +120,21 @@
                  /___/                /___/       
 ```
 
+## 🙋‍♂️ Let's Connect
+[![Gmail][gmail-shield]][gmail-url] -Mail <br>
+[![Linkedin][linkedin-shield]][linkedin-url] -LinkedIn<br>
+[![Github][github-shield]][github-url] -GitHub<br>
+[![LeetCode][leetcode-shield]][leetcode-url] -LeetCode<br>
+[![Hackerrank][hackerrank-shield]][hackerrank-url] -HackerRank<br>
+[![GFG][gfg-shield]][gfg-url] -Geeks-For-Geeks<br>
+<br>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[gmail-shield]: https://img.shields.io/badge/-Atul%20Oli-grey?style=flat&logo=gmail
+[gmail-url]: mailto:atuloli.27in.tech@gmail.com
+[linkedin-shield]: https://img.shields.io/badge/-Atul%20Oli-blue?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/atul-oli27-intech/
+[github-shield]: https://img.shields.io/badge/-Atul%20Oli-black?style=flat&logo=github
+[github-url]: https://github.com/Atuloli01
+[gfg-shield]: https://img.shields.io/badge/-Atul%20Oli-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
+<!-- [gfg-url]:  https://auth.geeksforgeeks.org/user/ -->
