@@ -140,5 +140,5 @@
 [gfg-shield]: https://img.shields.io/badge/-Atul%20Oli-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
 <!-- [gfg-url]:  https://auth.geeksforgeeks.org/user/ -->
 
-Random QUotes :)
+Random Quotes :)
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
