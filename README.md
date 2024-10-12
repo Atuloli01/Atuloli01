@@ -47,7 +47,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/atul-oli27-intech/](https://www.linkedin.com/in/atul-oli27-intech/)
 
-- ⚡ Fun fact **I am Lazy, but NO I am thinking about my work, on the other side knowledge and skills doing their work on proper time to complete the work....😝**
+- ⚡ Fun fact **While I tend to be lazy at times, my knowledge and skills always come into play at the right moment to ensure tasks are completed efficiently.....😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
