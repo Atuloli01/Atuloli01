@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/atul_oli" target="blank"><img src="https://img.shields.io/twitter/follow/atul_oli?logo=twitter&style=for-the-badge" alt="atul_oli" /></a> </p>
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Naman+and+Welcome+to+my+Profile" align="middle" alt="animated type out" width="100%"/> -->
-<p align="right
+<p align="right"
   <img src="https://aimresearch.co/wp-content/uploads/2023/07/artificial-intelligence-ai-and-machine-learning-ml-.jpg" alt="Master Head">
 </p>
 
