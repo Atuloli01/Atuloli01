@@ -139,3 +139,5 @@
 [github-url]: https://github.com/Atuloli01
 [gfg-shield]: https://img.shields.io/badge/-Atul%20Oli-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
 <!-- [gfg-url]:  https://auth.geeksforgeeks.org/user/ -->
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
