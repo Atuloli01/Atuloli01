@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **Kotlin, Java-script, Python, Machine_Learning**
+- 🌱 I’m currently learning **Kotlin, JavaScript, Python, Machine_Learning**
 
 - 👯 I’m looking to collaborate on **AI**
 
