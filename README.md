@@ -1,7 +1,7 @@
   # ATUL_OLI -Portfolio
 
 <h2 align="left">Hey ! I'm a College student... , from Uttarakhand ...  ..</h2>
-Learning from practical and real life projects or problems
+
 
 <h1 align="center">  👋, My name is ATUL OLI............😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -11,7 +11,7 @@ Learning from practical and real life projects or problems
 
 
 <h3 align="center">A passionate entry level frontend developer showcase a skills and having one chance for exploring and implementing my knowledge in real world projects......</h3>
-
+<h3>Learning from practical and real life projects or problems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atuloli01&label=Profile%20views&color=0e75b6&style=flat" alt="atuloli01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atuloli01" alt="atuloli01" /></a> </p>
