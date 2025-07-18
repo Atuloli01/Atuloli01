@@ -8,7 +8,7 @@
 @@ This is where I push my self to be consitent and always motivated @@
 ```
 
-<h2 align="center">👋 Hey! I'm Atul Oli, a College Student from Uttarakhand</h2>
+<h2 align="center">👋 Hey! I'm Atul Oli, A Jr.Developer and Creater from Uttarakhand</h2>
 
 <h1 align="center">Welcome to my GitHub!  😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
