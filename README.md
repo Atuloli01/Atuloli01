@@ -151,10 +151,17 @@ while True:
     else:
         print("💤 Sleep. Bug tomorrow!")
 ```
+
+
 <!-- Task List -->
-* [x] Task 1
-* [x] Task 2
-* [ ] Task 3
+* [x] Wake up in Morning
+* [x] Meditation Daily 
+* [ ] Exercise for a time
+* [ ] Study and Practical Approach
+* [ ] Spends times with Frineds
+* [ ] Generate NEw HObbies
+* [ ] Work Daily on your new habits to motivate u...
+* [ ] Sleep is important to see yourself WHAT U DO IN FUTURE...
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atuloli01&show_icons=true&count_private=true&hide_title=false&theme=github_dark&hide_border=true" height="150" alt="stats graph" />
