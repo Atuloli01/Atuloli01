@@ -143,16 +143,7 @@
 
 ---
 
----
 
-## 🚀 Languages, Tools, and Technologies
-- **Programming Languages**: JavaScript, Python, Java
-- **Frontend Development**: HTML, CSS, JavaScript
-- **Backend Development**: Node.js, Django
-- **Frameworks**: React, Express
-- **Developer Tools**: Git, Docker
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atuloli01&show_icons=true&count_private=true&hide_title=false&theme=github_dark&hide_border=true" height="150" alt="stats graph" />
