@@ -9,7 +9,7 @@
 ```
 
 <h2 align="center">👋 Hey! I'm Atul Oli, A Jr.Developer and Creater from Uttarakhand</h2>
-<img src="images\Git.png"/>
+<img src="\Git.png"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Coder%20|%20Learner%20|%20Engineer%20|%20Developer;Aspiring%20Web%20Developer;Always%20Eager%20To%20Learn%20New%20Things&center=true&width=600&height=80">
