@@ -1,4 +1,4 @@
-<p># ATUL OLI - Portfolio  <p align="center">
+<p># ATUL OLI - Portfolio  <h1 align="center">Welcome to my GitHub!  😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1> <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atuloli01&label=Profile%20Views&color=0e75b6&style=flat" alt="atuloli01" />
 </p></p>
 
@@ -9,9 +9,7 @@
 ```
 
 <h2 align="center">👋 Hey! I'm Atul Oli, A Jr.Developer and Creater from Uttarakhand</h2>
-
-<h1 align="center">Welcome to my GitHub!  😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
-
+<img src="images\Git.png"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Coder%20|%20Learner%20|%20Engineer%20|%20Developer;Aspiring%20Web%20Developer;Always%20Eager%20To%20Learn%20New%20Things&center=true&width=600&height=80">
