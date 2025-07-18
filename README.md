@@ -17,6 +17,17 @@
 
 <h3 align="center">
   A passionate, entry-level frontend developer seeking to expand my skills through real-world projects and collaboration.
+  Welcome to my GitHub!
+
+I am a Software Architect and i am here to enhance my contributions to Open source community. I work on these stuff:
+
+Frontend Development
+Backend Development
+Artificial Intelligence
+Data Structure and Algorithms
+Database Technologies
+DevOps tools
+Logging and Monitoring tools
 </h3>
 
 
