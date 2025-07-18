@@ -21,10 +21,7 @@
 <hr>
 
 <h3 align="center">
-  A passionate, entry-level frontend developer seeking to expand my skills through real-world projects and collaboration.
-</h3>
-
-  
+  A passionate, entry-level Jr. Developer seeking to expand my skills through real-world projects and collaboration. 
   I am a Software Architect and i am here to enhance my contributions to Open source community. I work on these stuff:
 <ul dir="auto">
 <li>Frontend Development</li>
@@ -35,6 +32,7 @@
 <li>DevOps tools</li>
 <li>Logging and Monitoring tools</li>
 </ul>
+</h3>
 
 ---
 
