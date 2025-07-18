@@ -143,10 +143,13 @@
 
 ---
 
-```java
-public static void main(String args[]){
-    System.out.println("Welcome to markdown!");
-}
+```python
+while True:
+    coffee = True
+    if coffee:
+        print("☕ Code, debug, repeat.")
+    else:
+        print("💤 Sleep. Bug tomorrow!")
 ```
 <!-- Task List -->
 * [x] Task 1
