@@ -26,9 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://aimresearch.co/wp-content/uploads/2023/07/artificial-intelligence-ai-and-machine-learning-ml-.jpg" alt="Master Head Image">
-</p>
 
 <h2 align="center">🌱 Data Science Enthusiast and Developer, Budding at IIT Gehu</h2>
 
