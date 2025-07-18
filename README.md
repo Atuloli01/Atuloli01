@@ -215,19 +215,19 @@ while True:
 
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ss-shrishi2000/handwritten-digit-classification" title="HandWritten-Digit-Classification"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ss-shrishi2000&repo=handwritten-digit-classification&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/27-Atul-PahadiCoder/handwritten-digit-classification" title="HandWritten-Digit-Classification"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=27-Atul-PahadiCoder&repo=handwritten-digit-classification&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/ss-shrishi2000/portfolio-react" title="Personal Portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ss-shrishi2000&repo=Portfolio-React&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/27-Atul-PahadiCoder/p1-CourseBca-Hub-Atul" title="CourseBca-Hub-Atul"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=27-Atul-PahadiCoder&repo=https://github.com/27-Atul-PahadiCoder/p1-CourseBca-Hub-Atul&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ss-shrishi2000/CloudSure" title="CloudSure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ss-shrishi2000&repo=CloudSure&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/27-Atul-PahadiCoder/CloudSure" title="CloudSure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=27-Atul-PahadiCoder&repo=CloudSure&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/ss-shrishi2000/Algorithms_On_Graphs" title="Algorithms On Graphs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ss-shrishi2000&repo=Algorithms_On_Graphs&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/27-Atul-PahadiCoder/Algorithms_On_Graphs" title="Algorithms On Graphs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=27-Atul-PahadiCoder&repo=Algorithms_On_Graphs&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ss-shrishi2000/LeetCode_Practice" title="Problem-Solving"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ss-shrishi2000&repo=LeetCode_Practice&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/27-Atul-PahadiCoder/LeetCode_Practice" title="Problem-Solving"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=27-Atul-PahadiCoder&repo=LeetCode_Practice&theme=react&border_color=61dafb&border_radius=10"></a>
   
 </div>
 <br><br><br><br><br><br>
