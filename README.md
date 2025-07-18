@@ -23,7 +23,7 @@
 <p align="center">
   A passionate, entry-level Jr. Developer seeking to expand my skills through real-world projects and collaboration. 
   </p>
-  I am a Software Architect and i am here to enhance my contributions to Open source community. I work on these stuff:
+  I want to become a Software Architect and i am here to enhance my contributions to Open source community. I work on these stuff:
 <ul dir="auto">
 <li>Frontend Development</li>
 <li>Backend Development</li>
