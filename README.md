@@ -2,6 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=atuloli01&label=Profile%20Views&color=0e75b6&style=flat" alt="atuloli01" />
 </p></p>
 
+```diff
+- This is a Where I became to Acquire Each Skills And Technologies
++ Limitation is My Mind and life Journey which Teaches me 
+@@ This is where I push my self to be consitent and always motivated @@
+```
 
 <h2 align="center">👋 Hey! I'm Atul Oli, a College Student from Uttarakhand</h2>
 
