@@ -85,11 +85,12 @@
   <a href="https://github.com/Atuloli01" target="blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" /></a>
 </p>
 
----
 
-### 🌟 "The journey of learning never stops!"
-![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
+### RANDOM JOKES OF THE DAY ...🌟 "The journey of learning never stops!"
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula&textColor=%23ffffff)
 ---
 
 <p align="center">
