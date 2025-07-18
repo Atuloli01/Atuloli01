@@ -194,13 +194,9 @@ while True:
   <a href="https://linkedin.com/in/atul-oli27-intech" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
   <a href="https://github.com/Atuloli01" target="blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" /></a>
 </p>
-
-
-
-<div align="center">
 ### RANDOM JOKES OF THE DAY ...🌟 "The journey of learning never stops!"
+<div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
-  <br /><br />
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula&textColor=%23ffffff" alt="Jokes Card" />
 </div>
 <h2 align="center">👨‍💻Currently OnGoing Repositories 👨‍💻</h2>
