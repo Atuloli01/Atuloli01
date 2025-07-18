@@ -55,7 +55,7 @@
 - 👯 Looking to collaborate on **AI**  
 - 🤝 Seeking help from **Tech Enthusiasts**  
 - 👨‍💻 Check out my projects at [GitHub](https://github.com/Atuloli01)  
-- 📝 I write articles on [BLogs]([https://medium.com/@Atul_inTech])  
+- 📝 I write articles on [BLogs](https://medium.com/@Atul_inTech)  
 - 💬 Ask me about **#Tech**, **#AICommunity**, **#CloudDevOps**, **#SoftwareEngineering**, **#OpenSource**, **#WebDevelopment**, and **#FullStackDevelopment**  
 - 📫 Reach out to me via **atuloli.27.intech@gmail.com**  
 - 📄 Explore my experience on [LinkedIn](https://www.linkedin.com/in/atul-oli27-intech/)  
