@@ -87,12 +87,12 @@
 
 
 
+<div align="center">
 ### RANDOM JOKES OF THE DAY ...🌟 "The journey of learning never stops!"
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula&textColor=%23ffffff)
----
-
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+  <br /><br />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula&textColor=%23ffffff" alt="Jokes Card" />
+</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atuloli01&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="Activity Graph" />
 </p>
