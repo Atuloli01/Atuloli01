@@ -88,7 +88,11 @@
 ---
 
 ### 🌟 "The journey of learning never stops!"
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atuloli01&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="Activity Graph" />
 </p>
+
