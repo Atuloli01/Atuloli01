@@ -1,4 +1,7 @@
-# ATUL OLI - Portfolio
+# ATUL OLI - Portfolio 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=atuloli01&label=Profile%20Views&color=0e75b6&style=flat" alt="atuloli01" />
+</p>
 
 <h2 align="center">👋 Hey! I'm Atul Oli, a College Student from Uttarakhand</h2>
 
@@ -16,15 +19,8 @@
   A passionate, entry-level frontend developer seeking to expand my skills through real-world projects and collaboration.
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=atuloli01&label=Profile%20Views&color=0e75b6&style=flat" alt="atuloli01" />
-</p>
 
-<p align="left">
-  <a href="https://twitter.com/atul_oli" target="blank">
-    <img src="https://img.shields.io/twitter/follow/atul_oli?logo=twitter&style=for-the-badge" alt="atul_oli" />
-  </a>
-</p>
+
 
 
 <h2 align="center">🌱 Data Science Enthusiast and Developer, Budding at IIT Gehu</h2>
