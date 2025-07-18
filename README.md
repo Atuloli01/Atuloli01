@@ -3,7 +3,7 @@
 </p></p>
 
 ```diff
-- This is a Where I became to Acquire Each Skills And Technologies
+- This is a Where I want to Acquire Each Skills, Tools and Technologies
 + Limitation is My Mind and life Journey which Teaches me 
 @@ This is where I push my self to be consitent and always motivated @@
 ```
