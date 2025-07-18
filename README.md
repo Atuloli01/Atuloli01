@@ -1,7 +1,7 @@
-# ATUL OLI - Portfolio 
-<p align="right">
+<p># ATUL OLI - Portfolio  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atuloli01&label=Profile%20Views&color=0e75b6&style=flat" alt="atuloli01" />
-</p>
+</p></p>
+
 
 <h2 align="center">👋 Hey! I'm Atul Oli, a College Student from Uttarakhand</h2>
 
