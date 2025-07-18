@@ -5,7 +5,7 @@
 
 <h2 align="center">👋 Hey! I'm Atul Oli, a College Student from Uttarakhand</h2>
 
-<h1 align="center">Welcome to My Portfolio! 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
+<h1 align="center">elcome to my GitHub!  😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -17,18 +17,22 @@
 
 <h3 align="center">
   A passionate, entry-level frontend developer seeking to expand my skills through real-world projects and collaboration.
-  Welcome to my GitHub!
-
-I am a Software Architect and i am here to enhance my contributions to Open source community. I work on these stuff:
-
-Frontend Development
-Backend Development
-Artificial Intelligence
-Data Structure and Algorithms
-Database Technologies
-DevOps tools
-Logging and Monitoring tools
 </h3>
+
+  
+  I am a Software Architect and i am here to enhance my contributions to Open source community. I work on these stuff:
+<ul dir="auto">
+<li>Frontend Development</li>
+<li>Backend Development</li>
+<li>Artificial Intelligence</li>
+<li>Data Structure and Algorithms</li>
+<li>Database Technologies</li>
+<li>DevOps tools</li>
+<li>Logging and Monitoring tools</li>
+</ul>
+
+---
+
 
 
 
