@@ -5,7 +5,7 @@
 ```diff
 - This is a Where I want to Acquire Each Skills, Tools and Technologies
 + Limitation is My Mind and life Journey which Teaches me 
-@@ This is where I push my self to be consitent and always motivated @@
+@@ This is where I push my self to be consistent and always motivated @@
 ```
 
 <h2 align="center">👋 Hey! I'm Atul Oli, A Jr. Developer and Creater from Uttarakhand, India</h2>
