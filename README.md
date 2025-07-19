@@ -8,7 +8,7 @@
 @@ This is where I push my self to be consitent and always motivated @@
 ```
 
-<h2 align="center">👋 Hey! I'm Atul Oli, A Jr.Developer and Creater from Uttarakhand</h2>
+<h2 align="center">👋 Hey! I'm Atul Oli, A Jr. Developer and Creater from Uttarakhand, India</h2>
 <img src="\Git.png"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
