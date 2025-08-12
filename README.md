@@ -168,6 +168,29 @@ while True:
     else:
         print("💤 Sleep. Bug tomorrow!")
 ```
+<table align="center">
+    <thead align="center">
+        <tr border: 2px;>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/ajaynegi45/Uttarakhand-Culture-NewUI?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/ajaynegi45/Uttarakhand-Culture-NewUI?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/ajaynegi45/Uttarakhand-Culture-NewUI?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/ajaynegi45/Uttarakhand-Culture-NewUI?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/ajaynegi45/Uttarakhand-Culture-NewUI?style=flat&color=green&logo=github"/></td>
+        </tr>
+    </tbody>
+</table>
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <!-- Task List -->
