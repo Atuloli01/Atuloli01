@@ -188,19 +188,21 @@ while True:
         </tr>
     </tbody>
 </table>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--line-->
+# ✅ Daily Task List
+
+- [x] Wake up in the morning  
+- [x] Meditate daily  
+- [ ] Exercise regularly  
+- [ ] Study and apply practical knowledge  
+- [ ] Spend time with friends  
+- [ ] Explore and develop new hobbies  
+- [ ] Work daily on new habits to stay motivated  
+- [ ] Prioritize sleep — it shapes who you'll become in the future  
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<!-- Task List -->
-* [x] Wake up in Morning
-* [x] Meditation Daily 
-* [ ] Exercise for a time
-* [ ] Study and Practical Approach
-* [ ] Spends times with Frineds
-* [ ] Generate NEw HObbies
-* [ ] Work Daily on your new habits to motivate u...
-* [ ] Sleep is important to see yourself WHAT U DO IN FUTURE...
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atuloli01&show_icons=true&count_private=true&hide_title=false&theme=github_dark&hide_border=true" height="150" alt="stats graph" />
